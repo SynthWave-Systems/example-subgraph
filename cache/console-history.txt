@@ -1,0 +1,45 @@
+await gra.gravatars(0)
+await gra.createGravatar('OORT', 'https://oortech.com')
+await gra.gravatars(0)
+const gra = await ethers.getContractAt("GravatarRegistry", "0x5fbdb2315678afecb367f032d93f642f64180aa3")
+await gra.gravatars(0)
+await gra.gravatars(1)
+await gra.createGravatar('OORT', 'https://oortech.com')
+await gra.gravatars(1)
+const gra = await ethers.getContractAt("GravatarRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await gra.gravatars(1)
+await gra.createGravatar('OORT', 'https://oortech.com')
+await gra.gravatars(0)
+gra
+await gra.gravatars(0)
+await gra.gravatars()
+gra
+await gra.createGravatar('Oachis', 'https://oortech.com')
+const gra = await ethers.getContractAt("GravatarRegistry", "0x84B250eEE68bA7E16131cc1457c53c571F58bE3D")
+await gra.createGravatar('test', 'https://oortech.com')
+const gra = await ethers.getContractAt("GravatarRegistry", "0x99aBe49F8e826511F6A0dD02CDf5d28e95D45b16")
+await gra.createGravatar('test', 'https://oortech.com')
+const gra = await ethers.getContractAt("GravatarRegistry", "0x99aBe49F8e826511F6A0dD02CDf5d28e95D45b16")
+const grav = await ethers.getContractAt("GravatarRegistry", "0x99aBe49F8e826511F6A0dD02CDf5d28e95D45b16")
+await grav.createGravatar('test', 'https://oortech.com')
+const grav = await ethers.getContractAt("GravatarRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await grav.createGravatar('test', 'https://oortech.com')
+await grav.updateGravatarImage('https://oortech.com')
+await grav.updateGravatarImage('Oachis', 'https://oortech.com')
+await grav.updateGravatar('Oachis', 'https://oortech.com')
+await grav.createGravatar('test', 'https://oortech.com')
+await grav.createGravatar('Oachis', 'https://oortech.com')
+const grav = await ethers.getContractAt("GravatarRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await gravatar.createGravatar('Oachis', 'https://oortech.com')
+await gravatar.createGravatar
+await gravatar.createGravatar()
+await gravatar.createGravatar
+await gravatar
+await gravatar.createGravatar('Oachis', 'https://oortech.com')
+)
+await gravatar.createGravatar('Oachis', 'https://oortech.com/)
+gravatar
+await gravatar.deployed
+await gravatar.deployed()
+gravatar
+const gravatar = ethers.getContractAt("GravatarRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")

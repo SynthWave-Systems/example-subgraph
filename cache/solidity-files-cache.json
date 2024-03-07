@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/personal/Documents/example-subgraph/contracts/Gravity.sol": {
+      "lastModificationDate": 1709835826138,
+      "contentHash": "3ece57b0c7362a48f3d950ed7ea23bec",
+      "sourceName": "contracts/Gravity.sol",
+      "solcConfig": {
+        "version": "0.5.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.5.0"
+      ],
+      "artifacts": [
+        "GravatarRegistry"
+      ]
+    },
+    "/home/personal/Documents/example-subgraph/contracts/Migrations.sol": {
+      "lastModificationDate": 1709835727117,
+      "contentHash": "2212f2dc2084d8374f6e16a401c9a247",
+      "sourceName": "contracts/Migrations.sol",
+      "solcConfig": {
+        "version": "0.5.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.5.0"
+      ],
+      "artifacts": [
+        "Migrations"
+      ]
+    }
+  }
+}
